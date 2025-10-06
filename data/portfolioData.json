@@ -21,23 +21,23 @@
       "intro": "From concept to final render, I bring ideas to life in three dimensions for games and film.",
       "cv_files": [
         {
-          "title": "3D Generalist CV",
+          "title": "3D Generalist",
           "link": "/assets/cvs/3D Generalist.pdf"
         },
         {
-          "title": "Generative AI Creative Technologist CV",
+          "title": "Generative AI Creative Technologist",
           "link": "/assets/cvs/Generative AI Creative Technologist.pdf"
         },
         {
-          "title": "Interactive Media Developer CV",
+          "title": "Interactive Media Developer",
           "link": "/assets/cvs/Interactive Media Developer.pdf"
         },
         {
-          "title": "Unreal Engine Developer and Generalist CV",
+          "title": "Unreal Engine Developer and Generalist",
           "link": "/assets/cvs/Unreal Engine Developer and Generalist.pdf"
         },
         {
-          "title": "Unreal Engine Technical Artist CV",
+          "title": "Unreal Engine Technical Artist",
           "link": "/assets/cvs/Unreal Engine Technical Artist.pdf"
         }
       ],
@@ -66,6 +66,9 @@
         { "name": "HunyuanVideo", "logo": "https://dscache.tencent-cloud.cn/upload/uploader/hunyuan-64b418fd052c033b228e04bc77bbc4b54fd7f5bc.png" },
         { "name": "Google Veo", "logo": "https://veo3.art/logo.png" },
         { "name": "Flux", "logo": "https://aimodelflux.com/wp-content/uploads/2024/08/cropped-flux-logo.webp" },
+        { "name": "RunwayML", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Runway_Logo.png" },
+        { "name": "ByteDance", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ByteDance_logo_English.svg/2560px-ByteDance_logo_English.svg.png" },
+        { "name": "Alibaba-PAI", "logo": "https://cdn-avatars.huggingface.co/v1/production/uploads/1650342890988-623c6253389748c9f72ca287.png" },
         { "name": "ZBrush", "logo": "https://images.seeklogo.com/logo-png/15/2/zbrush-logo-png_seeklogo-155828.png" }
       ],
       "portfolio": [
@@ -84,7 +87,7 @@
         { "id": "im-14", "title": "Caliente Network Media Campaign (3 Trailers)", "thumbnail": "https://helptayyaba.live/tmb/calt.jpg", "description": "Three cinematic trailers for a media campaign.", "tech": ["Unreal Engine", "Blender", "DaVinci Resolve", "After Effects"], "videoUrl": "", "details": "Produced three cinematic trailers for a media campaign, including environment builds, motion graphics, and color-graded edits, demonstrating the ability to produce multi-video campaign content at scale.", "projectLink": "", "demoVideoUrl": "https://www.youtube.com/embed/aU1IjHJ7zTw" },
         { "id": "im-15", "title": "Metaverse Music Festival Video Trailer", "thumbnail": "https://helptayyaba.live/tmb/mmw.png", "description": "3D animated trailer for a metaverse music festival.", "tech": ["Unreal Engine", "Character Creator", "iClone", "Marvelous Designer", "Substance Painter"], "videoUrl": "", "details": "Directed and produced a visually engaging promotional video by building custom 3D environments, animating multiple characters, and integrating concert-style VFX.", "projectLink": "", "demoVideoUrl": "https://www.youtube.com/embed/2nLelGs1igw" },
         { "id": "im-16", "title": "Jay Worthy Music Video - 'My World'", "thumbnail": "https://helptayyaba.live/tmb/jwm.jpg", "description": "Augmented live-action music video with cinematic 3D environments and animated characters.", "tech": ["Unreal Engine", "Blender", "ZBrush", "Substance"], "videoUrl": "", "details": "A cross-medium visual production that blends VFX and real-world footage by integrating cinematic 3D environments and animated characters into a live-action music video.", "projectLink": "", "demoVideoUrl": "https://www.youtube.com/embed/YIxKn743gZc" },
-        { "id": "im-1", "title": "Youtopia - Metaverse and NFT Marketplace", "thumbnail": "https://helptayyaba.live/tmb/yt.jpg", "description": "Interactive metaverse with avatar systems and commerce flows.", "tech": ["Unreal Engine", "Blender"], "videoUrl": "", "details": "An interactive metaverse 'city' with avatar systems, galleries, and prototype commerce flows for digital assets. It demonstrates content and UX flows for an online interactive space.","demoVideoUrl": "https://www.youtube.com/embed/2mrzbB1REq4", "projectLink": ""},
+        { "id": "im-17", "title": "Youtopia - Metaverse and NFT Marketplace", "thumbnail": "https://helptayyaba.live/tmb/yt.jpg", "description": "Interactive metaverse with avatar systems and commerce flows.", "tech": ["Unreal Engine", "Blender"], "videoUrl": "", "details": "An interactive metaverse 'city' with avatar systems, galleries, and prototype commerce flows for digital assets. It demonstrates content and UX flows for an online interactive space.","demoVideoUrl": "https://www.youtube.com/embed/2mrzbB1REq4", "projectLink": ""},
         { "id": "im-18", "title": "SmartGym - Virtual Trainer App", "thumbnail": "https://helptayyaba.live/tmb/smartgym.png", "description": "Web-based virtual trainer with AI pose detection & 3D avatars.", "tech": ["React", "Three.js", "TensorFlow.js", "Firebase"], "videoUrl": "", "details": "A proof-of-concept for interactive at-home fitness experiences using AI pose detection and animated 3D avatars delivering guided workouts.", "projectLink": "", "demoVideoUrl": "" },
         { "id": "im-19", "title": "Space Wars - SFML based C++ Game", "thumbnail": "https://helptayyaba.live/tmb/spcw.png", "description": "2D space shooter game in C++ using the SFML multimedia library.", "tech": ["C++", "SFML"], "videoUrl": "", "details": "Developed a 2D space shooter game in C++ using the SFML multimedia library for graphics, input, and audio management. It was a key project for transitioning from console-based development to graphical applications.", "projectLink": "", "demoVideoUrl": "" },
         { "id": "im-20", "title": "Monopoly Game", "thumbnail": "https://helptayyaba.live/tmb/monop.jpg", "description": "A complete, console-based Monopoly game in C++.", "tech": ["C++"], "videoUrl": "", "details": "Built a complete, console-based Monopoly game in C++, featuring pixel graphics and support for up to 4 human or AI players. This project implemented complex game logic and multiplayer turn management.", "projectLink": "", "demoVideoUrl": "https://www.youtube.com/embed/95z8RBF1ziU" },
@@ -108,19 +111,19 @@
       "intro": "Building intelligent agents and full-stack SaaS applications to create innovative, automated user experiences.",
       "cv_files": [
           {
-            "title": "AI Automation and Agentic Systems CV",
+            "title": "AI Automation and Agentic Systems",
             "link": "/assets/cvs/AI Automatin and Agentic Systems.pdf"
           },
           {
-            "title": "AI Full-Stack & SaaS Developer CV",
+            "title": "AI Full-Stack & SaaS Developer",
             "link": "/assets/cvs/AI Full-Stack & SaaS Developer.pdf"
           },
           {
-            "title": "Generative AI Creative Technologist CV",
+            "title": "Generative AI Creative Technologist",
             "link": "/assets/cvs/Generative AI Creative Technologist.pdf"
           },
           {
-            "title": "AI Product & Project Lead CV",
+            "title": "AI Product & Project Lead",
             "link": "/assets/cvs/AI Product & Project Lead.pdf"
           }
         ],
@@ -148,6 +151,11 @@
         { "name": "OpenAI", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" },
         { "name": "Claude", "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" },
         { "name": "MetaAI", "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" },
+        { "name": "Browser-use", "logo": "https://raw.githubusercontent.com/browser-use/browser-use/main/static/browser-use-dark.png" },
+        { "name": "AWS Lambda", "logo": "https://images.icon-icons.com/2699/PNG/512/amazon_awslambda_logo_icon_167887.png" },
+        { "name": "Github Actions", "logo": "https://avatars.githubusercontent.com/u/91616160?s=280&v=4" },
+        { "name": "LangChain", "logo": "https://brandlogos.net/wp-content/uploads/2025/03/langchain-logo_brandlogos.net_9zgaw.png" },
+        
         { "name": "Visual Studio", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" }
       ],
       "portfolio": [
@@ -182,15 +190,15 @@
       "intro": "Steering projects from conception to completion with a focus on agile methodologies and strategic team leadership.",
       "cv_files": [
         {
-          "title": "AI Product & Project Lead CV",
+          "title": "AI Product & Project Lead",
           "link": "/assets/cvs/AI Product & Project Lead.pdf"
         },
         {
-          "title": "Project Manager CV",
+          "title": "Project Manager",
           "link": "/assets/cvs/Project Manager.pdf"
         },
         {
-          "title": "Executive Assistant CV",
+          "title": "Executive Assistant",
           "link": "/assets/cvs/Executive Assistant.pdf"
         }
       ],
