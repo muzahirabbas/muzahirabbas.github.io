@@ -15,7 +15,7 @@
     {
       "id": "interactive-media",
       "title": "Interactive Media",
-      "subtitle": "3D Animation & VFX",
+      "subtitle": "Game Dev, Web Dev & 3D",
       "icon": "FaCube",
       "color": "cyan",
       "intro": "From concept to final render, I bring ideas to life in three dimensions for games and film.",
@@ -83,7 +83,7 @@
     {
       "id": "ai-automation",
       "title": "AI & Full Stack",
-      "subtitle": "Automation & Web App Development",
+      "subtitle": "AI, Automation, Full-Stack Web Applications & Workflows",
       "icon": "FaRobot",
       "color": "purple",
       "intro": "Building intelligent agents and full-stack SaaS applications to create innovative, automated user experiences.",
