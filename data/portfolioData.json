@@ -119,6 +119,17 @@
         { "name": "Visual Studio", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" }
       ],
       "portfolio": [
+        {
+          "f": "true",
+          "id": "ai-0",
+          "title": "StreamParty - P2P WebRTC Streaming App",
+          "thumbnail": "https://helptayyaba.live/tmb/sparty.png", 
+          "description": "A modern, self-hostable, peer-to-peer streaming platform using WebRTC.",
+          "tech": ["React", "Tailwind CSS", "WebRTC", "WebSockets", "Cloudflare Workers", "PWA"],
+          "details": "Share your screen and chat with guests in real-time. Features two-way audio, persistent chat, dark mode, theater mode, and PWA installability. Powered by a lightweight Cloudflare Worker backend for signaling.",
+          "projectLink": "https://github.com/muzahirabbas/StreamParty",
+          "demoVideoUrl": "https://www.youtube.com/embed/EKNL_f0QXCY"
+        },
         { "f": "true", "id": "ai-1", "title": "AI-Powered Cinematographic Shot Generator", "thumbnail": "https://helptayyaba.live/tmb/shotgen.png", "description": "Full-stack tool that converts narrative text into shot lists and generative prompts.", "tech": ["Gemini/GPT", "React", "Node.js", "Docker"], "details": "A full-stack tool that converts narrative text into continuity-aware shot lists and generative prompts for pre-production pipelines. It speeds up planning and produces prompts for image/video pipelines.","projectLink": "https://github.com/muzahirabbas/ReadySetShots", "videoUrl": "", "demoVideoUrl": "https://www.youtube.com/embed/-cAF8mRbjbU"},
         { "f": "true", "id": "ai-2", "title": "TwoFold AI-Powered Relationship Platform", "thumbnail": "https://helptayyaba.live/tmb/twofold.png", "description": "A privacy-first dual-agent coaching platform.", "tech": ["React", "Flask", "Firebase"], "videoUrl": "", "details": "A privacy-first dual-agent coaching platform providing per-user assistants and a joint strategist for shared goals. It demonstrates privacy-by-design orchestration and UX flows for personal-coaching AI.", "projectLink": "https://github.com/muzahirabbas/TwoFold", "demoVideoUrl": "https://www.youtube.com/embed/pcbiuGlLgg8" },
         { "f": "true", "id": "ai-3", "title": "Veritas Lens: AI Fact Checker Extension", "thumbnail": "https://helptayyaba.live/tmb/vtlens.png", "description": "A browser extension for critical evaluation of online content.", "tech": ["React.js", "Flask", "Gemini AI"], "videoUrl": "", "details": "An AI-powered browser extension designed to help users critically evaluate online content with on-demand fact-checking, source analysis, and counterarguments. It accelerates research by providing instant feedback.", "projectLink": "https://github.com/muzahirabbas/Veritas-Lens-Your-AI-Powered-Fact-Checking-and-Critical-Thinking-Co-pilot", "demoVideoUrl": "https://www.youtube.com/embed/exSmPVYiiOA" },
