@@ -1,0 +1,292 @@
+{
+  "personalInfo": {
+    "name": "Muzahir Abbas",
+    "email": "muxahirabbas247@gmail.com",
+    "phone": "+923125039952",
+    "socials": {
+      "github": "https://github.com/muzahirabbas",
+      "linkedin": "https://linkedin.com/in/muzahirabbas14/",
+      "instagram": "https://instagram.com/x_zaari_x",
+      "facebook": "https://facebook.com/brainfr33ze",
+      "discord": "https://discord.gg/ywQm3h3g39"
+    }
+  },
+  "blades": [
+    {
+      "id": "ai-automation",
+      "title": "AI & Full Stack",
+      "subtitle": "AI, Automation, Full-Stack Web Applications & Workflows",
+      "icon": "FaRobot",
+      "color": "purple",
+      "intro": "Building intelligent agents and full-stack SaaS applications to create innovative, automated user experiences.",
+      "skills": [
+        { "name": "React & Next.js", "level": 95 },
+        { "name": "Python & Flask", "level": 90 },
+        { "name": "LLMs & Generative AI", "level": 85 },
+        { "name": "AI Agents", "level": 90 },
+        { "name": "Firebase & Google Cloud", "level": 88 },
+        { "name": "RAG", "level": 85 },
+        { "name": "MCP Servers", "level": 90 },
+        { "name": "Prompt Engineering", "level": 90 }
+      ],
+      "technologies": [
+        { "name": "React", "logo": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" },
+        { "name": "Cloudflare", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cloudflare_Logo.svg/2560px-Cloudflare_Logo.svg.png" },
+        { "name": "n8n", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/1280px-N8n-logo-new.svg.png" },
+        { "name": "ComfyUI", "logo": "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/comfyui-color.png" },
+        { "name": "Next.js", "logo": "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/nextjs-dqhvgu9iwvacgwnwl8bs25.png/nextjs-ghnqttyc6ffbnqnn8xlrpj.png?_a=DATAg1AAZAA0" },
+        { "name": "Python", "logo": "https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" },
+        { "name": "Flask", "logo": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flask-logo-icon.png" },
+        { "name": "Firebase", "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" },
+        { "name": "Google Cloud", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/1200px-Google_Cloud_logo.svg.png" },
+        { "name": "Gemini", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/1280px-Google_Gemini_logo.svg.png" },
+        { "name": "OpenAI", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" },
+        { "name": "Claude", "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" },
+        { "name": "MetaAI", "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" },
+        { "name": "Browser-use", "logo": "https://raw.githubusercontent.com/browser-use/browser-use/main/static/browser-use-dark.png" },
+        { "name": "AWS Lambda", "logo": "https://images.icon-icons.com/2699/PNG/512/amazon_awslambda_logo_icon_167887.png" },
+        { "name": "Github Actions", "logo": "https://avatars.githubusercontent.com/u/91616160?s=280&v=4" },
+        { "name": "LangChain", "logo": "https://brandlogos.net/wp-content/uploads/2025/03/langchain-logo_brandlogos.net_9zgaw.png" },
+        
+        { "name": "Visual Studio", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" }
+      ],
+      "portfolio": [
+        {
+          "f": "true",
+          "id": "ai-0",
+          "title": "StreamParty - P2P WebRTC Streaming App",
+          "thumbnail": "/assets/tmb/sparty.png", 
+          "description": "A modern, self-hostable, peer-to-peer streaming platform using WebRTC.",
+          "impact": "Achieved sub-100ms latency P2P streaming.",
+          "tech": ["React", "Tailwind CSS", "WebRTC", "WebSockets", "Cloudflare Workers", "PWA"],
+          "details": "Share your screen and chat with guests in real-time. Features two-way audio, persistent chat, dark mode, theater mode, and PWA installability. Powered by a lightweight Cloudflare Worker backend for signaling.",
+          "projectLink": "https://github.com/muzahirabbas/StreamParty",
+          "demoVideoUrl": "https://www.youtube.com/embed/EKNL_f0QXCY"
+        },
+        { "f": "true", "id": "ai-1", "title": "AI Shot Generator", "thumbnail": "/assets/tmb/shotgen.png", "description": "Full-stack tool that converts narrative text into shot lists.",
+        "impact": "Reduced pre-production shot-listing time by 80%.", "tech": ["Gemini/GPT", "React", "Node.js", "Docker"], "details": "A full-stack tool that converts narrative text into continuity-aware shot lists and generative prompts for pre-production pipelines. It speeds up planning and produces prompts for image/video pipelines.","projectLink": "https://github.com/muzahirabbas/ReadySetShots", "videoUrl": "", "demoVideoUrl": "https://www.youtube.com/embed/-cAF8mRbjbU"},
+        { "f": "true", "id": "ai-2", "title": "TwoFold AI Relationship Platform", "thumbnail": "/assets/tmb/twofold.png", "description": "A privacy-first dual-agent coaching platform.", "impact": "Implemented privacy-by-design agent architecture.", "tech": ["React", "Flask", "Firebase"], "videoUrl": "", "details": "A privacy-first dual-agent coaching platform providing per-user assistants and a joint strategist for shared goals. It demonstrates privacy-by-design orchestration and UX flows for personal-coaching AI.", "projectLink": "https://github.com/muzahirabbas/TwoFold", "demoVideoUrl": "https://www.youtube.com/embed/pcbiuGlLgg8" },
+        { "f": "true", "id": "ai-3", "title": "Veritas Lens: AI Fact Checker", "thumbnail": "/assets/tmb/vtlens.png", "description": "Browser extension for critical evaluation of online content.", "impact": "Processed 1000+ articles with <2s latency per check.", "tech": ["React.js", "Flask", "Gemini AI"], "videoUrl": "", "details": "An AI-powered browser extension designed to help users critically evaluate online content with on-demand fact-checking, source analysis, and counterarguments. It accelerates research by providing instant feedback.", "projectLink": "https://github.com/muzahirabbas/Veritas-Lens-Your-AI-Powered-Fact-Checking-and-Critical-Thinking-Co-pilot", "demoVideoUrl": "https://www.youtube.com/embed/exSmPVYiiOA" },
+        { "f": "true", "id": "ai-4", "title": "AI Career Copilot", "thumbnail": "/assets/tmb/aicareer.png", "description": "An AI-powered tool for optimizing resumes.", "impact": "Optimized 50+ resumes leading to 30% callback increase (test group).", "tech": ["React", "Python", "Gemini API"], "videoUrl": "", "details": "An AI-powered career co-pilot that analyzes resumes against job descriptions, providing an ATS match score and actionable feedback. It streamlines the resume optimization process with instant, AI-driven feedback.", "projectLink": "https://github.com/muzahirabbas/CareerCopilotAI", "demoVideoUrl": "https://www.youtube.com/embed/ZC_RiRlVmg8" },
+        { "nda": "1" ,"id": "ai-5", "title": "AI-Powered Social Media Scheduler", "thumbnail": "/assets/tmb/aisocial.png", "description": "Serverless scheduler that adapts posts for different platforms.", "tech": ["Cloudflare Workers", "React", "Gemini"], "videoUrl": "", "details": "A serverless scheduler that adapts a single post into platform-optimized variants and queues publish tasks. It serves as a prototype for cross-platform content adaptation.", "projectLink": "https://github.com/muzahirabbas/SocialSchedularPro", "demoVideoUrl": "" },
+        { "f": "true", "id": "ai-6", "title": "Diet AI: Nutrition Tracker", "thumbnail": "/assets/tmb/dietai.png", "description": "Multi-modal food logging (image/voice/text) nutrition tracker.", "impact": "Seamless multi-modal input integration.", "tech": ["Gemini", "Firebase", "Web Speech API"], "videoUrl": "", "details": "A demo of a privacy-first food-tracking flow with multimodal input, converting inputs into structured nutrition entries and daily summaries.", "projectLink": "https://github.com/muzahirabbas/Diet-AI", "demoVideoUrl": "https://www.youtube.com/embed/wSYZO9-M9Ks" },
+        { "id": "ai-7", "title": "PromptGod: AI Prompt Assistant", "thumbnail": "/assets/tmb/pgod.png", "description": "A browser extension that helps writers construct and test better prompts.", "tech": ["Manifest V3", "Flask", "React"], "videoUrl": "", "details": "A productivity tool for prompt iteration and standardized prompt templates that helps writers construct and test better prompts by providing reusable templates and local caching.", "projectLink": "https://github.com/muzahirabbas/PromptGod", "demoVideoUrl": "https://www.youtube.com/embed/-fAhlJ6bfhI" },
+        { "id": "ai-8", "title": "Video Stream Quality Detector", "thumbnail": "/assets/tmb/streamdt.png", "description": "Internal tool to analyze streaming quality.", "tech": ["Browser extension prototype", "local analysis heuristics"], "videoUrl": "", "details": "An internal research tool to analyze streaming quality and detect broken or low-quality segments for publishers and integrators. Designed for lawful publisher QA and integration testing.", "projectLink": "https://github.com/muzahirabbas/StreamDetectorPro_ChromeExtension", "demoVideoUrl": "https://www.youtube.com/embed/XXvUQAXaMls" },
+        { "id": "ai-9", "title": "EasyAppGen: Web App Generator", "thumbnail": "/assets/tmb/aiappg.png", "description": "Workflow turning specs into runnable app scaffolds.", "tech": ["LLM prompts", "Python"], "videoUrl": "", "details": "A developer productivity tool for bootstrapping MVPs by turning a plain-English spec into a runnable app scaffold (directory + starter files) to accelerate prototyping.", "projectLink": "https://github.com/muzahirabbas/EasyAppGen", "demoVideoUrl": "" },
+        { "id": "ai-10", "title": "CV Genie: Resume Generator", "thumbnail": "/assets/tmb/cvgenie.png", "description": "Generates ATS-friendly resumes.", "tech": ["LLMs", "Puppeteer", "pdf-lib"], "videoUrl": "", "details": "A personal productivity tool for job applicants that generates ATS-friendly resumes and tailored application content from user-provided data and templates, outputting high-quality PDFs.", "projectLink": "https://github.com/muzahirabbas/CV-Genie-ai-POWERED-ats-friendly-CV-generator", "demoVideoUrl": "https://www.youtube.com/embed/42RxyrsJ1qI" },
+        { "id": "ai-11", "title": "Automated AI Job Application", "thumbnail": "/assets/tmb/aijobapp.png", "description": "Workflow for assembling tailored applications.", "tech": ["Python", "LLM-based tailoring engine"], "videoUrl": "", "details": "A research prototype demonstrating an automated workflow for assembling tailored applications (resume, cover letter, tracking), intended for personal productivity demos with an ethics-first approach.", "projectLink": "https://github.com/muzahirabbas/Linkedin_AI_Job_Assistant", "demoVideoUrl": "https://www.youtube.com/embed/zUVJvUG_fjQ" },
+        { "id": "ai-13", "title": "SmartGym - Virtual Trainer App", "thumbnail": "/assets/tmb/smartgym.png", "description": "Web-based virtual trainer with AI pose detection & 3D avatars.", "tech": ["React", "Three.js", "TensorFlow.js", "Firebase"], "videoUrl": "", "details": "A proof-of-concept for interactive at-home fitness experiences using AI pose detection and animated 3D avatars delivering guided workouts.", "projectLink": "", "demoVideoUrl": "" }
+      ],
+      "certifications": [
+        { "id": "cert-ai-1", "name": "AI Agent Developer", "issuer": "Vanderbilt University", "image": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9COR1LXBQAI6/CERTIFICATE_LANDING_PAGE~9COR1LXBQAI6.jpeg", "details": "Certification in the end-to-end development and deployment of autonomous AI agents." },
+        { "id": "cert-ai-2", "name": "Generative AI Automation Specialization", "issuer": "Vanderbilt University", "image": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~7PZBJ7XEE2SF/CERTIFICATE_LANDING_PAGE~7PZBJ7XEE2SF.jpeg", "details": "Specialization focused on automating complex tasks and workflows using generative AI models." },
+        { "id": "cert-ai-3", "name": "IBM RAG and Agentic AI", "issuer": "IBM", "image": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~74H33CL01DAV/CERTIFICATE_LANDING_PAGE~74H33CL01DAV.jpeg", "details": "Certified in building advanced AI systems using Retrieval-Augmented Generation (RAG) and agentic architectures." },
+        { "id": "cert-ai-4", "name": "Google IT Automation with Python", "issuer": "Google", "image": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SCZCYCQT93A2/CERTIFICATE_LANDING_PAGE~SCZCYCQT93A2.jpeg", "details": "Certified skills in automating IT infrastructure, system administration, and development tasks using Python." },
+        { "id": "cert-ai-5", "name": "Programming with Python Professional Certificate", "issuer": "OpenEDG Python Institute", "image": "/assets/cer/py.jpg", "details": "Professional certification covering procedural programming, problem-solving, and core Python skills for AI." },
+        { "id": "cert-ai-6", "name": "Docker Foundations Professional Certificate", "issuer": "Docker, Inc", "image": "/assets/cer/dock.jpg", "details": "Certified knowledge in containerization and deploying applications with Docker for scalable solutions." }
+      ]
+    },
+    {
+      "id": "interactive-media",
+      "title": "Interactive Media",
+      "subtitle": "Game Dev, Web Dev & 3D",
+      "icon": "FaCube",
+      "color": "cyan",
+      "intro": "From concept to final render, I bring ideas to life in three dimensions for games and film.",
+      "skills": [
+        { "name": "Unreal Engine", "level": 95 },
+        { "name": "3D Animation", "level": 90 },
+        { "name": "VFX", "level": 85 },
+        { "name": "Character Design", "level": 90 },
+        { "name": "3D Fashion", "level": 95 },
+        { "name": "Ad Design", "level": 80 },
+        { "name": "Shader Creation", "level": 95 },
+        { "name": "Level Design", "level": 85 },
+        { "name": "Video Editing", "level": 90 },
+        { "name": "AI Video Content", "level": 90 }
+      ],
+      "technologies": [
+        { "name": "Unreal Engine", "logo": "https://cdn.worldvectorlogo.com/logos/unreal-1.svg" },
+        { "name": "Blender", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" },
+        { "name": "Substance", "logo": "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/comfyui-color.png" },
+        { "name": "MetaHumans", "logo": "https://virtualfilmer.com/wp-content/uploads/2023/08/metahuman_black2.png" },
+        { "name": "ComfyUI", "logo": "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/comfyui-color.png" },
+        { "name": "Adobe", "logo": "https://logos-world.net/wp-content/uploads/2020/08/Adobe-Logo-2023.png" },
+        { "name": "Clo3D", "logo": "https://i.pinimg.com/280x280_RS/25/52/d7/2552d7aa106219bd7e06f9d0c4b719c3.jpg" },
+        { "name": "Reallusion Software", "logo": "https://www.pugh.co.uk/wp-content/uploads/2017/06/reallusion-logo-white-horizontal.png" },
+        { "name": "Wan Video", "logo": "https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P/resolve/main/assets/logo.png" },
+        { "name": "HunyuanVideo", "logo": "https://dscache.tencent-cloud.cn/upload/uploader/hunyuan-64b418fd052c033b228e04bc77bbc4b54fd7f5bc.png" },
+        { "name": "Google Veo", "logo": "https://d4.alternativeto.net/wpYRDF072HNknWU2_fE_Q9uWeROKvjivu4EO_2tf2Wk/rs:fit:280:280:0/g:ce:0:0/exar:1/YWJzOi8vZGlzdC9pY29ucy9nb29nbGUtdmVvXzIzMTY2MC5wbmc.png" },
+        { "name": "Flux", "logo": "https://aimodelflux.com/wp-content/uploads/2024/08/cropped-flux-logo.webp" },
+        { "name": "RunwayML", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Runway_Logo.png" },
+        { "name": "ByteDance", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ByteDance_logo_English.svg/2560px-ByteDance_logo_English.svg.png" },
+        { "name": "Alibaba-PAI", "logo": "https://cdn-avatars.huggingface.co/v1/production/uploads/1650342890988-623c6253389748c9f72ca287.png" },
+        { "name": "ZBrush", "logo": "https://images.seeklogo.com/logo-png/15/2/zbrush-logo-png_seeklogo-155828.png" }
+      ],
+      "portfolio": [
+        { "f": "true", "id": "im-2", "title": "AthenX - Virtual School", "thumbnail": "/assets/tmb/atx.png", "description": "A multiplayer educational game set in a virtual Greek city.", "impact": "Enabled 500+ students to attend virtual classes during lockdown.", "tech": ["Unreal Engine", "Blender", "Amazon AWS"], "videoUrl": "", "details": "Designed and built a multiplayer educational game, from 3D environment modeling to cloud server deployment, enabling students to explore virtual classrooms and interact.", "projectLink": "", "demoVideoUrl": "https://www.youtube.com/embed/7q60VTUre0c" },
+        { "f": "true", "id": "im-3", "title": "SG Avatars By My Avatar Nation", "thumbnail": "/assets/tmb/man.jpg", "description": "Built modular avatars and optimized rigs for a Singapore metaverse project.", "impact": "Optimized rigs for 200+ simultaneous avatars at 60FPS.", "tech": ["Blender", "Clo3D", "Unreal Engine", "Character Creator"], "videoUrl": "", "details": "Developed shaders and asset pipelines for avatars and clothing, demonstrating large-scale avatar operations, character customization, and real-time optimization.", "projectLink": "https://www.linkedin.com/company/my-avatar-nation/posts/?feedView=videos", "demoVideoUrl": "https://www.youtube.com/embed/d7smaRnY3Gg" },
+        { "id": "im-4", "title": "Nautiverse - Metaverse Trailer", "thumbnail": "/assets/tmb/naut.jpg", "description": "Futuristic metaverse trailer with character models and cinematics.", "tech": ["Unreal Engine", "Blender", "Substance Painter"], "videoUrl": "", "details": "A portfolio cinematic demonstrating character animation and VFX pipeline for a futuristic metaverse trailer. It features character models, environment design, and sequenced cinematics with stylized neon visuals.", "projectLink": "", "demoVideoUrl": "" },
+        { "f": "true", "id": "im-5", "title": "Fall of Lucifer Book Trailer", "thumbnail": "/assets/tmb/fol.jpg", "description": "Cinematic trailer with volumetric effects and character animation.", "impact": "Achieved 10k+ views on launch campaign.", "tech": ["Unreal Engine", "Character Creator"], "videoUrl": "", "details": "A cinematic trailer built with volumetric effects, character animation, and sequencer-driven cinematics to demonstrate a polished cinematic pipeline for publishing and marketing.", "projectLink": "https://www.instagram.com/carpentervangelis/", "demoVideoUrl": "https://www.youtube.com/embed/G6Z9ld1gHOw" },
+        { "id": "im-6", "title": "NollyFunMerch - Product Visualization", "thumbnail": "/assets/tmb/nolly.png", "description": "High-fidelity 3D product renders for e-commerce.", "tech": ["Blender", "Substance Painter"], "videoUrl": "", "details": "High-fidelity 3D product renders and motion promos optimized for web and social ads, serving as commercial-grade visuals for e-commerce campaigns.", "projectLink": "", "demoVideoUrl": "" },
+        { "id": "im-7", "title": "Fashion AR - Trailer & Demo", "thumbnail": "/assets/tmb/far.png", "description": "AR demo for virtual garment try-on with cloth simulation.", "tech": ["Unreal Engine", "Marvelous Designer", "Blender"], "videoUrl": "", "details": "An AR demo for virtual garment try-on, featuring cloth simulation and mobile-optimized shaders. It serves as a bridge between high-fidelity fashion assets and real-time AR pipelines.", "projectLink": "", "demoVideoUrl": "" },
+        { "nda": "1" ,"id": "im-8", "title": "Alien Race Game Characters", "thumbnail": "/assets/tmb/arc.jpg", "description": "24 unique alien characters for an interstellar game.", "tech": ["Character Creator", "ZBrush", "Blender"], "videoUrl": "", "details": "Designed and sculpted a diverse roster of 24 unique alien characters, organized into 12 distinct races, establishing a unique visual identity for the game's universe.", "projectLink": "", "demoVideoUrl": "" },
+        { "f": "true", "id": "im-9", "title": "Nessie3D VFX Shot", "thumbnail": "/assets/tmb/n3d.png", "description": "3D creature model seamlessly integrated into a VFX shot.", "impact": "Delivered film-ready VFX shot ahead of schedule.", "tech": ["Blender", "Substance Painter", "Unreal Engine"], "videoUrl": "", "details": "Modeled, animated, and rendered a 3D lake monster for seamless VFX integration into a film production, creating a complete, film-ready VFX sequence.", "projectLink": "", "demoVideoUrl": "https://www.youtube.com/embed/3hdHFgdY_4o" },
+        { "id": "im-10", "title": "D-Belt - Product Ad", "thumbnail": "/assets/tmb/dbt.jpg", "description": "Promotional video visualizing a medical product’s functionality with 3D visuals.", "tech": ["Unreal Engine", "Blender"], "videoUrl": "", "details": "Promotional video visualizing a medical product’s functionality with 3D visuals and storyboard-driven shots. Impact: Product storytelling via cinematic visuals.", "projectLink": "", "demoVideoUrl": "" },
+        { "nda": "1" , "id": "im-11", "title": "Inner Child - 3D Short", "thumbnail": "/assets/tmb/ich.jpg", "description": "Narrative-driven 3D animated short.", "tech": ["Unreal Engine", "Character Creator", "iClone", "Marvelous Designer"], "videoUrl": "", "details": "A symbolic 3D animated short, managing the full character and environment pipeline from modeling to final VFX in Unreal Engine.", "projectLink": "", "demoVideoUrl": "" },
+        { "f": "true", "id": "im-12", "title": "Jab Jab - Highest Jump (Ad)", "thumbnail": "/assets/tmb/jab.jpg", "description": "High-energy, cinematic 3D ad for an energy drink.", "impact": "High-retention ad visuals for social media campaign.", "tech": ["Unreal Engine", "Character Creator", "Blender", "iClone"], "videoUrl": "", "details": "A dynamic, broadcast-quality commercial by integrating custom 3D characters, environments, and high-impact visual effects.", "projectLink": "", "demoVideoUrl": "" },
+        { "f": "true", "id": "im-13", "title": "Dark Forest - Game Trailer", "thumbnail": "/assets/tmb/dft.jpg", "description": "Anime-styled fantasy trailer with procedural foliage.", "impact": "Demonstrated real-time cinematic rendering capability.", "tech": ["Unreal Engine", "Blender", "Substance"], "videoUrl": "", "details": "An example of environment design and cinematic sequencing in a real-time engine, featuring procedural foliage, volumetrics, and cinematic compositing.", "projectLink": "", "demoVideoUrl": "https://www.youtube.com/embed/pwQxWfl9Ilg" },
+        { "f": "true", "id": "im-14", "title": "Caliente Network Media Campaign (3 Trailers)", "thumbnail": "/assets/tmb/calt.jpg", "description": "Three cinematic trailers for a media campaign.", "impact": "Produced 3 distinct trailers in <2 weeks using real-time tools.", "tech": ["Unreal Engine", "Blender", "DaVinci Resolve", "After Effects"], "videoUrl": "", "details": "Produced three cinematic trailers for a media campaign, including environment builds, motion graphics, and color-graded edits, demonstrating the ability to produce multi-video campaign content at scale.", "projectLink": "", "demoVideoUrl": "https://www.youtube.com/embed/aU1IjHJ7zTw" },
+        { "f": "true", "id": "im-15", "title": "Metaverse Music Festival Trailer", "thumbnail": "/assets/tmb/mmw.png", "description": "3D animated trailer for a metaverse music festival.", "impact": "Showcased 10+ unique character assets in a single scene.", "tech": ["Unreal Engine", "Character Creator", "iClone", "Marvelous Designer", "Substance Painter"], "videoUrl": "", "details": "Directed and produced a visually engaging promotional video by building custom 3D environments, animating multiple characters, and integrating concert-style VFX.", "projectLink": "", "demoVideoUrl": "https://www.youtube.com/embed/2nLelGs1igw" },
+        { "id": "im-16", "title": "Jay Worthy Music Video - 'My World'", "thumbnail": "/assets/tmb/jwm.jpg", "description": "Augmented live-action music video with cinematic 3D environments and animated characters.", "tech": ["Unreal Engine", "Blender", "ZBrush", "Substance"], "videoUrl": "", "details": "A cross-medium visual production that blends VFX and real-world footage by integrating cinematic 3D environments and animated characters into a live-action music video.", "projectLink": "", "demoVideoUrl": "https://www.youtube.com/embed/YIxKn743gZc" },
+        { "f": "true", "id": "im-17", "title": "Youtopia - Metaverse and NFT Marketplace", "thumbnail": "/assets/tmb/yt.jpg", "description": "Interactive metaverse with avatar systems and commerce flows.", "impact": "Integrated 3D assets with web-based NFT commerce logic.", "tech": ["Unreal Engine", "Blender"], "videoUrl": "", "details": "An interactive metaverse 'city' with avatar systems, galleries, and prototype commerce flows for digital assets. It demonstrates content and UX flows for an online interactive space.","demoVideoUrl": "https://www.youtube.com/embed/2mrzbB1REq4", "projectLink": ""},
+        { "id": "im-18", "title": "SmartGym - Virtual Trainer App", "thumbnail": "/assets/tmb/smartgym.png", "description": "Web-based virtual trainer with AI pose detection & 3D avatars.", "tech": ["React", "Three.js", "TensorFlow.js", "Firebase"], "videoUrl": "", "details": "A proof-of-concept for interactive at-home fitness experiences using AI pose detection and animated 3D avatars delivering guided workouts.", "projectLink": "", "demoVideoUrl": "" },
+        { "id": "im-19", "title": "Space Wars - SFML based C++ Game", "thumbnail": "/assets/tmb/spcw.png", "description": "2D space shooter game in C++ using the SFML multimedia library.", "tech": ["C++", "SFML"], "videoUrl": "", "details": "Developed a 2D space shooter game in C++ using the SFML multimedia library for graphics, input, and audio management. It was a key project for transitioning from console-based development to graphical applications.", "projectLink": "", "demoVideoUrl": "" },
+        { "id": "im-20", "title": "Monopoly Game", "thumbnail": "/assets/tmb/monop.jpg", "description": "A complete, console-based Monopoly game in C++.", "tech": ["C++"], "videoUrl": "", "details": "Built a complete, console-based Monopoly game in C++, featuring pixel graphics and support for up to 4 human or AI players. This project implemented complex game logic and multiplayer turn management.", "projectLink": "", "demoVideoUrl": "https://www.youtube.com/embed/95z8RBF1ziU" },
+        { "id": "im-21", "title": "Jurasic Park Pixels", "thumbnail": "/assets/tmb/jpp.jpg", "description": "A console-based game using C++ to render pixel graphics.", "tech": ["C++"], "videoUrl": "", "details": "Developed a console-based game using C++ to render pixel graphics and implement core game mechanics, demonstrating foundational programming skills.", "projectLink": "", "demoVideoUrl": "https://www.youtube.com/embed/D-_c1H-Gafw" }
+      ],
+      "certifications": [
+        { "id": "cert-im-1", "name": "Epic Games Game Design Professional Certification", "issuer": "Epic Games", "image": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~Y54A3FYE6E97/CERTIFICATE_LANDING_PAGE~Y54A3FYE6E97.jpeg", "details": "Official certification in game design principles and practices from Epic Games, core to interactive media development." },
+        { "id": "cert-im-2", "name": "Essential Skills in Generative AI for Creatives", "issuer": "Adobe", "image": "/assets/cer/esaia.jpg", "details": "Certified skills in leveraging generative AI to accelerate creative workflows in media production." },
+        { "id": "cert-im-3", "name": "Essential Skills in Premiere Pro", "issuer": "Adobe", "image": "/assets/cer/esppro.jpg", "details": "Official certification in professional video editing and post-production with Adobe Premiere Pro." },
+        { "id": "cert-im-4", "name": "Essential Skills in Adobe Photoshop", "issuer": "Adobe", "image": "/assets/cer/esap.jpg", "details": "Official certification in image editing, manipulation, and digital artistry with Adobe Photoshop." },
+        { "id": "cert-im-5", "name": "C++ Programming Professional Certificate", "issuer": "OpenEDG C++ Institute", "image": "/assets/cer/cpp.jpg", "details": "Professional certification in C++, a foundational language for high-performance game development in Unreal Engine." },
+        { "id": "cert-im-6", "name": "Career Essentials in Generative AI", "issuer": "Microsoft and LinkedIn", "image": "/assets/cer/cegai.jpg", "details": "Core skills in applying generative AI, relevant for modern technical art and content creation pipelines." }
+      ]
+    },
+    {
+      "id": "project-management",
+      "title": "Project Management",
+      "subtitle": "Leadership & Agile Methods",
+      "icon": "FaClipboardList",
+      "color": "blue",
+      "intro": "Steering projects from conception to completion with a focus on agile methodologies and strategic team leadership.",
+      "skills": [
+        { "name": "Agile & Scrum", "level": 95 },
+        { "name": "Project Management", "level": 90 }
+      ],
+      "technologies": [
+        { "name": "Jira", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" },
+        { "name": "Notion", "logo": "https://get.site/wp-content/uploads/bfi_thumb/notion-logo-38q8iq9lv8th4hlvppxhop7jceqbjc42hmlzlvwacni20k5ao.png" },
+        { "name": "Clickup", "logo": "https://1000logos.net/wp-content/uploads/2022/06/ClickUp-Logo-2048x1151.png" },
+        { "name": "n8n", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/1280px-N8n-logo-new.svg.png" }
+      ],
+      "portfolio": [
+        { "id": "pm-1", "title": "Zenith Adventures Portal", "thumbnail": "/assets/tmb/zaw.png", 
+        "description": "Built the full booking portal and databases for a travel company.", "tech": ["WordPress", "JavaScript"], "videoUrl": "", "details": "Built a real-world operational system used to manage over 25 group trips, including the full booking portal and databases for a travel company." },
+        { "nda": "1" ,"id": "pm-2", "title": "Student Learning Network App", "thumbnail": "/assets/tmb/sln.png", 
+        "description": "Developed a collaborative learning network app.", "tech": ["Android", "Java", "PHP", "MySQL"], "videoUrl": "", "details": "Developed a full-stack mobile solution, engineering both the native Android front-end and the PHP-based back-end for a complete educational platform." },
+        { "f": "true", 
+          "id": "pm-3",
+          "title": "Donation Drive Website",
+          "thumbnail": "/assets/tmb/htl.png",
+          "description": "Comprehensive donation drive website.",
+          "impact": "Facilitated $10k+ in donations via secure gateway.",
+          "demoVideoUrl": "https://www.youtube.com/embed/5nbBENEf3Ok",
+          "tech": [
+            "HTML/CSS",
+            "JavaScript",
+            "Database",
+            "Payment Gateway"
+          ],
+          "videoUrl": "https://www.youtube.com/embed/oQGxrPeI7Oo",
+          "details": "The site provided transparent information on the case, including medical reports, a detailed justification of costs, and real-time database-connected updates on the patient's condition and fundraising progress, alongside personal video explanations from the friend."
+        },
+        { "f": "true", 
+          "nda": "1" ,
+          "id": "pm-4",
+          "title": "EcoHope Donor & Child Portal",
+          "thumbnail": "/assets/tmb/ecoh.png",
+          "description": "Secure web portal for an NGO centralizing profiles.",
+          "impact": "Centralized 500+ records, reducing access time by 90%.",
+          "tech": [
+            "React.js",
+            "Firebase",
+            "JavaScript",
+            "HTML/CSS"
+          ],
+          "videoUrl": "",
+          "details": "Streamlined reporting and enabled transparent monitoring, deepening donor engagement and trust. Presented as a user-data-only tool; strict data privacy and access controls were implemented to protect sensitive information."
+        },
+        { "f": "true", 
+          "id": "pm-5", "title": "The SwissArmyKnife Site", "thumbnail": "/assets/tmb/swak.png", "description": "A dynamic portfolio built with React, Tailwind, and WebGL.",
+          "impact": "Lighthouse score 95+, fully responsive.",
+          "projectLink":"https://SwissArmyKnife.pages.dev",
+          "demoVideoUrl": "https://www.youtube.com/embed/dQ3N4rQ1lNg",
+          "tech": ["React", "Vite", "Tailwind CSS", "Framer Motion", "WebGL (ogl)"],
+          "details": "This project was a self-driven initiative to build a portfolio that does more than just list skills—it demonstrates them. Built from the ground up using a modern frontend stack including React and Vite for a lightning-fast development experience."
+        },
+        { "nda": "1" ,"id": "pm-6", "title": "Commravel Website", "thumbnail": "/assets/tmb/crv.png", 
+        "description": "Web portal to connect travelers.", "tech": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"], "videoUrl": "", "details": "Built a functional prototype for a peer-to-peer logistics network, demonstrating skills in full-stack web development and user portal design." }
+      ],
+      "certifications": [
+        { "id": "cert-pm-1", "name": "ServiceNow IT Leadership Professional Certificate", "issuer": "ServiceNow", "image": "/assets/cer/sit.jpg", "details": "Professional certification in IT leadership, strategic planning, and technology project management." },
+        { "id": "cert-pm-2", "name": "Career Essentials in GitHub Professional Certificate", "issuer": "GitHub", "image": "/assets/cer/git.jpg", "details": "Certified skills in using GitHub for version control, collaboration, and agile project management." },
+        { "id": "cert-pm-3", "name": "AI for Organizational Leaders", "issuer": "Microsoft and LinkedIn", "image": "/assets/cer/aiol.jpg", "details": "Certification on leveraging artificial intelligence for strategic advantage and organizational leadership." },
+        { "id": "cert-pm-4", "name": "Agentic AI and AI Agents for Leaders Specialization", "issuer": "Vanderbilt University", "image": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PZ84FKQXPTY7/CERTIFICATE_LANDING_PAGE~PZ84FKQXPTY7.jpeg", "details": "Specialized knowledge in leading teams and projects that involve the development and deployment of AI agents." }
+      ]
+    }
+  ],
+  "experience": {
+    "title": "Career & Experience",
+    "intro": "A timeline of my professional journey, highlighting key roles, responsibilities, and achievements.",
+    "timeline": [
+      {
+        "id": "exp-0",
+        "year": "2025",
+        "role": "Technology Lead & Developer",
+        "company": "Eco Hope",
+        "achievement": "Designed and launched a full-stack donor and child profile portal; built and deployed the organization's scalable website and database systems.",
+        "details": "Designed and launched a full-stack donor and child profile portal, ensuring transparency and streamlined access to key information. Built and deployed the organization's website and database systems, creating a scalable foundation for future growth. Led IT operations, managing infrastructure, security, and digital tools to support day-to-day NGO activities. Applied automation and system design thinking to reduce manual data handling and improve efficiency for staff and volunteers."
+      },
+      { "id": "exp-1", "year": "2024", "role": "Creative Technology Lead (AI & Automation)", "company": "SparkE Production",
+      "achievement": "Overhauled pipelines into an AI-first production model (50% faster).",
+       "details": "Overhauled pipelines into an AI-first production model. Built generative AI workflows for 2D/3D asset creation (50% faster). Automated animation & rendering pipelines (removing bottlenecks). Deployed AI-driven content generation for marketing & social media. Designed automated digital asset management systems." },
+      { "id": "exp-2", "year": "2021", "role": "Lead Technical Artist & Co-Founder", "company": "SparkE Production", "achievement": "Built and optimized workflows for Unreal Engine, VFX, and game pipelines.", "details": "Built and optimized workflows for Unreal Engine, VFX, and game pipelines. Created custom tools, shaders, and procedural systems. Integrated art + code to deliver high-quality cinematics and real-time content. Directed technical art teams on character rigs, animation, and environments." },
+      { "id": "exp-3", "year": "2024", "role": "AI & Automation | SaaS Developer (Freelance)", "company": "Part Time & Freelancing", "achievement": "Delivered custom AI SaaS apps, automations, and AI-powered tools for clients.", "details": "Delivered custom AI SaaS apps, automations, and AI-powered tools for clients. Automated business ops via Zapier/Make + Python. Developed generative AI solutions for animation, marketing, and branding." },
+      { "id": "exp-4", "year": "2020", "role": "3D Generalist (Freelance)", "company": "Part Time & Freelancing", "achievement": "Specialized in 3D character animation for trailers, music videos, and metaverse projects.", "details": "Specialized in 3D character animation for trailers, music videos, and metaverse projects. Created 3D fashion animations & immersive environments. Delivered hybrid AI + 3D productions for clients." },
+      { "id": "exp-5", "year": "2022", "role": "Unreal 3D Tech Artist", "company": "MovingStone Digital", "achievement": "Worked on Youtopia, AthenX, and Kaaba3D, focusing on shaders, rigging, level design, and optimization.", "details": "Worked on Youtopia, AthenX, and Kaaba3D. Focused on shaders, rigging, level design, and optimization in Unreal Engine." },
+      { "id": "exp-6", "year": "2021", "role": "3D Tech Artist & Generalist (Freelance)", "company": "My Avatar Nation", "achievement": "Developed shaders and asset pipelines for avatars + clothing (Blender, Clo3D → Unreal).", "details": "Developed shaders and asset pipelines for avatars + clothing (Blender, Clo3D → Unreal). Built a futuristic metaverse city (gaming, shopping, social hubs). Produced trailers & character showcases for marketing." },
+      { "id": "exp-7", "year": "2016", "role": "Co-Founder and CEO", "company": "Zenith Adventures", "achievement": "Ran a travel startup, leading 25+ trips across Pakistan.", "details": "Ran a travel startup, leading 25+ trips across Pakistan. Built the full portal for event & booking management. Developed expertise in project management, leadership, and operations." },
+      { "id": "exp-8", "year": "2020", "role": "Foreign Exchange Trader (Part-time)", "company": "MyForexFunds", "achievement": "Built trading systems and strategies using technical + fundamental analysis.", "details": "Built trading systems and strategies using technical + fundamental analysis." }
+    ]
+  },
+  "testimonials": [
+    { "id": "test-1", "name": "Usman Ali",
+     "role": "Business Development Executive",
+      "avatar": "/assets/rec/ua.jpg", "text": "Muzahir is very talented and follows the highest work ethics. His skillset helped us to make our client very happy with realistic animations." },
+    { "id": "test-2", "name": "Tallal Saghir",
+     "role": "Full Stack Developer",
+      "avatar": "/assets/rec/ts.jpg", "text": "Muzahir is a highly talented professional in the 3D and VFX arts industry, possessing a deep understanding of industry concepts and demonstrating exceptional creativity in his work." },
+    { "id": "test-3", "name": "Syed Muhammad Ali Musa",
+     "role": "Application and Technical Support Engineer",
+      "avatar": "/assets/rec/mam.jpg", "text": "I had the pleasure of mentoring Muzahir Abbas during the Fundamentals of Computer Programming (FOCP) lab... I highly recommend Muzahir to any organization looking for a talented and committed professional." },
+    { "id": "test-4", "name": "Afia Javed",
+     "role": "Registered Dental Assistant",
+      "avatar": "/assets/rec/aj.jpg", "text": "Muzahir is one of the most talented and dedicated professionals I’ve had the pleasure of working with... I highly recommend Muzahir for any position or project where strong leadership, a creative mindset, and dedication are valued." },
+    { "id": "test-5", "name": "Kumail Naqvi", 
+    "role": "SEO & Performance Marketing",
+      "avatar": "/assets/rec/kas.jpg", "text": "I had the pleasure of working with Muzahir Abbas at SparkE Productions, and I can confidently attest to his exceptional skills and outstanding character... I'm honored to call Muzahir not only a colleague but also a close friend." },
+    { "id": "test-6", "name": "Wajahat Hassan",
+     "role": "AI Agent Developer",
+      "avatar": "/assets/rec/wh.jpg", "text": "I have had the privilege of co-founding a company with Mr. Muzahir Abbas... His mastery over industry-standard software like Unreal Engine... makes him a must-have asset in any company or organization." },
+    { "id": "test-7", "name": "Hira Batool",
+     "role": "Digital Marketer",
+      "avatar": "/assets/rec/hb.jpg", "text": "Muzahir is a 3D wizard! He has a rare ability to balance artistic vision with technical expertise. Muzahir is an exceptionally talented 3D artist and game developer..." },
+    { "id": "test-8", "name": "Muhammad Atif",
+     "role": "WordPress Developer",
+      "avatar": "/assets/rec/ma.jpg", "text": "I highly recommend Muzahir Abbas for his exceptional expertise in 3D programming and game design... His dedication, attention to detail, and collaborative spirit make him an invaluable team member." },
+    { "id": "test-9", "name": "Areeba Naqvi",
+     "role": "Lead Graphic Designer",
+      "avatar": "/assets/rec/an.jpg", "text": "I have had the pleasure of working with Muzahir Abbas a remarkably professional and talented CG artist and VFX generalist... I highly recommend Muzahir for any position or project that requires a top-tier CG artist and VFX generalist." },
+    { "id": "test-10", "name": "M. Yasir Hayat Khan",
+     "role": "Data Engineer", 
+      "avatar": "/assets/rec/yhk.jpg", "text": "Muzahir is a standout Technical CG Artist and Generalist. His skills in procedural workflows for CG, VFX, cinematics, and game development are top-notch." },
+    { "id": "test-11", "name": "Mushahid Abbas",
+     "role": "3D Generalist", 
+      "avatar": "/assets/rec/man.jpg", "text": "I highly recommend Muzahir Abbas, who I had the pleasure of co-founding a company with... He quickly learns new tools and techniques, which helps in adapting to different projects." },
+    { "id": "test-12", "name": "Mohsin Iqbal", 
+    "role": "2D/3D Artist and Generalist", 
+    "avatar": "/assets/rec/mi.jpg", "text": "I have had the pleasure of knowing and working alongside Muzahir Abbas for over five years, and it is with great enthusiasm that I recommend him as an outstanding 3D Technical Artist." }
+  ]
+}
